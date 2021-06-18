@@ -1,0 +1,39 @@
+thread {
+    text-align: center;
+    font-weight: bold;
+    }
+
+caption {
+        caption-side: top;
+        text-align: center;
+}
+
+tfoot {
+    text-align: center;
+    border: 1px solid black;
+}
+
+table {
+    width: 600px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+
+.vert {color: green;}
+.rouge {color: red;}
+
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.col2 {
+    width: 40px;
+}
